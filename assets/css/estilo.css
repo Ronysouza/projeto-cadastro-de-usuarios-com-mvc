@@ -1,0 +1,114 @@
+.div-menu{
+
+	background-color: #000;
+	margin: 0;
+	padding: 0;
+		width: 100%;
+	 
+}
+
+.div-menu .a{
+	text-align: center;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 2px;
+	transition: 0.2s;
+
+
+}
+
+.div-menu .a:hover{
+     transition: 0.2s;
+	background-color: #4F4F4F;
+	color: #000;
+
+	
+}
+
+
+.div-menu ul{
+
+	list-style: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 0;
+}
+
+.div-menu li{
+display: inline-block;
+color: #fff;
+padding-left: 10px;
+padding-bottom: 10px;
+
+}
+
+.container-home th{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.container td{
+	 
+	margin-left: 10px;
+	 line-height: 20px;
+}
+
+
+.container-home img{
+   
+   max-width: 20px;
+   width: 100%;
+   margin: auto;
+
+   border:1px solid #000;
+   margin-left: 5px;
+   padding: 5px;
+   border-radius: 2px;
+
+
+
+
+
+}
+
+.container-home table{
+
+
+	border: 1px solid #ddd;
+	width: 100%;
+}
+
+
+
+.container-adicionar {
+
+	border:1px solid #ddd;
+	max-width: 500px;
+	width: 100%;
+	margin: auto;
+	padding:10px;
+	margin-top: 30px;
+}
+
+
+.container-adicionar .input{
+  
+	width: 90%;
+	margin-left: 10px;
+
+
+
+
+}
+
+
+.div-menu img{
+	line-height: 40px;
+	max-width: 50px;
+
+	 
+	 
+}
+
+ 

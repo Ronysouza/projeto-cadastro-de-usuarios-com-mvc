@@ -7,7 +7,7 @@ try{
 
     if(ENVIRONMMENT == 'development'){
           
-          define('BASE_URL','http://localhost/estrutura-mvc/');
+          define('BASE_URL','http://localhost/cadastro/');
                
                $db_name = 'mysql:dbname=teste_mvc;host=localhost';              
                $db_user = 'root';
